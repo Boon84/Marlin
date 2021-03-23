@@ -736,7 +736,7 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.2, 80.2, 400, 138.42 } //rado PLA 131.5, PETG 138.42
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.2, 80.2, 400, 96 } //rado PLA 131.5, PETG 138.42
 
 /**
  * Default Max Feed Rate (mm/s)
